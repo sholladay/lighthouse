@@ -1,0 +1,11 @@
+{
+  "generator-seth": {
+    "promptValues": {
+      "username": "sholladay",
+      "fullName": "Seth Holladay",
+      "email": "me@seth-holladay.com",
+      "website": "https://seth-holladay.com",
+      "accessToken": "10354125a0636a70c97730ec0735889b5cef44b9"
+    }
+  }
+}
