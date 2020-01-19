@@ -1,0 +1,39 @@
+{
+    "name": "lighthouse",
+    "version": "0.0.0",
+    "description": "Get to know your neighbors at Boston Bay Marina",
+    "homepage": "https://github.com/sholladay/lighthouse",
+    "main": "index.js",
+    "author": {
+        "name": "Seth Holladay",
+        "url": "https://seth-holladay.com",
+        "email": "me@seth-holladay.com"
+    },
+    "scripts": {
+        "test": "xo && ava"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:sholladay/lighthouse.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sholladay/lighthouse/issues",
+        "email": "me@seth-holladay.com"
+    },
+    "engines": {
+        "node": ">=10"
+    },
+    "license": "MPL-2.0",
+    "files": [
+        "index.js"
+    ],
+    "devDependencies": {
+        "ava": "^2.4.0",
+        "eslint-config-tidy": "^0.10.0",
+        "xo": "^0.25.3"
+    },
+    "keywords": [],
+    "xo": {
+        "extend": "tidy"
+    }
+}
