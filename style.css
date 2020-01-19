@@ -1,0 +1,88 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.boxed {
+    border: 1px solid black;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.dock {
+    border: 1px solid black;
+    height: 350px;
+    width: 15px;
+    background-color: grey;
+}
+
+.button {
+    border: 2px solid green;
+    height: 20px;
+    width: 40px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+    margin-top: 10px;
+}
+
+.button:hover {
+    background-color: tomato;
+    color: black;
+}
+
+.boat {
+    border: 1px solid black;
+    height: 20px;
+    width: 40px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+    margin-top: 10px;
+}
+
+.boat-seth {
+    border: 1px solid black;
+    height: 40px;
+    width: 20px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+    margin-top: 10px;
+}
+
+.boat2a {
+    border: 1px solid black;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 40px;
+    margin-top: 10px;
+}
+
+.boat2 {
+    border: 1px solid black;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 20px;
+    top: 30px;
+    margin-top: 10px;
+}
+
+.boat3a {
+    border: 1px solid black;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 40px;
+    margin-top: 10px;
+}
